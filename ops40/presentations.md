@@ -14,3 +14,5 @@ This is a machine generated file, and should not be edited, as it will be overwr
 - [ops40.ja-jp-2019-12_Dec-06.pptx](https://globaleventcdn.blob.core.windows.net/assets/ops/ops40/ops40.ja-jp-2019-12_Dec-06.pptx)
 
 
+
+
