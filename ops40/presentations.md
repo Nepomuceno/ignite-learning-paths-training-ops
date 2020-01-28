@@ -15,3 +15,5 @@ This is a machine generated file, and should not be edited, as it will be overwr
 - [ops40.ja-jp-2020-01_Jan-22.pptx](https://globaleventcdn.blob.core.windows.net/assets/ops/ops40/ops40.ja-jp-2020-01_Jan-22.pptx)
 
 
+
+
