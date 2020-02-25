@@ -39,11 +39,11 @@ Or worse, the angry customers on social media.
 ----
 
 When reliability becomes an issue, you can lose
-money
-time - all of the unplanned work you have to do
-reputation - customers lose patience and switch to your competitor
-health - lack of uniterrupted sleep and an unpleasant job, no chance to get caught up all take a toll
-hiring - we all want to recruit good talent but word gets out an no one wants to work in a constant tire fire
+- money
+- time - all of the unplanned work you have to do
+- reputation - customers lose patience and switch to your competitor
+- health - lack of uniterrupted sleep and an unpleasant job, no chance to get caught up all take a toll
+- hiring - we all want to recruit good talent but word gets out an no one wants to work in a constant tire fire
 
 And worst of all, having put in countless amounts of resources into a product or service - hired the best people, added fabulous features, trained up a sales force to sell it, if it isn’t reliable, if it isn’t available when your customers try to use it, the money and the effort starts to go to waste. As Lenny Fenster, the CTO in the Microsoft Enterprise Services group says "all the bells and whistles in the world aren’t worth so much if the bells cannot be rung nor the whistles blown."
 
