@@ -6,6 +6,7 @@ Welcome!
 
 The content of this repository is available for you so you can reproduce any demo or learn how to present any session of the Learning Path presented at [Migrosoft Ignite](https://www.microsoft.com/ignite) and during [Microsoft Ignite The Tour](https://www.microsoft.com/ignite-the-tour/), in your local field office, a community user group, or even as a lunch-and-learn event for your company.
 
+
 ## Do the Demos
 
 If you are here to reproduce a demo in the comfort of your home/office, go in in the section [Sessions](#sessions). In each session you will find deployment instructions, to create the environment you need, and a tutorial to do the demo step by step.
